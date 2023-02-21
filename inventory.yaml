@@ -1,0 +1,7 @@
+area4machines:
+  hosts:
+    m01:
+      ansible_host: <ip>
+    m02:
+      ansible_host: <ip>
+    
